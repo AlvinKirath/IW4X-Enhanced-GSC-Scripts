@@ -179,7 +179,7 @@ _teams.gsc and _gamelogic.gsc remain based on IW4X's original shared systems.
 
 nextmatch.gsc is new rather than a modification of an existing stock script.
 
-The official IW4X rawfiles repository contains the original game rawfiles used by the client. https://github.com/iw4x/iw4x-rawfiles
+The official IW4X rawfiles repository contains the original game rawfiles used by the client. [https://github.com/iw4x/iw4x-rawfiles](https://github.com/iw4x/iw4x-rawfiles?utm_source=chatgpt.com)
 
 Gun Game attachment system
 
